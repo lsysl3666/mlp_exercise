@@ -3,7 +3,7 @@
 ## Introduction - 
 This is my solution for the data cleaning exercise
 
-### Summary - 概要
+### Summary - 
 
 ### Features - 特性
 
