@@ -8,9 +8,18 @@ There is a rar file contains my solution for the data scientist data cleaning ex
 Please contact me at lu.siyao@outlook.com for password 
 
 ### Features 
-There are 6 folders in total and 2 solution file.   
-One solution file is in PDF format and one is a doc file.The content are same.  
-In each folder, there is a jupyter-notebbok shows the calculation process with input files in same folder  
+There are 6 folders in total and 2 solution files.   
+One solution file is in PDF format and one is a doc file.The content are same.    
+In each folder, there is a jupyter-notebbok shows the calculation process with input files in same folder.    
+
+The order of the folders are :   
+0.Data download: Three downloader to download from three different sources     
+1.Initial Data Analysis: Check the data errors    
+2.Data Correction: Correct the errors in the sample data  
+3.Signal Evaluation: Apply statistical analysis to evaluate the signal  
+4.More analysis: Apply a clustering algorithm to evaluate the signal    
+5.Product knowledge: Some product files related to the product    
+
 
 ## Requirements
 Python 3 
