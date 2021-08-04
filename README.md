@@ -2,23 +2,30 @@
 
 ## Introduction - 
 This is my solution for the data cleaning exercise  
-siyao lu
 
 ### Summary - 
+There is a rar file contains my solution for the data scientist data cleaning exercise  
+Please contact me at lu.siyao@outlook.com for password 
 
-### Features - 特性
+### Features - 
+There are 6 folders in total and 2 solution file.   
+One solution file is in PDF format and one is a doc file.The content are same.  
+In each folder, there is a jupyter-notebbok shows the calculation process with input files in same folder  
 
-## Requirements - 必要条件（环境，对所有项目，和所有子模块和库的描述。）
 
-## Configuration - 配置（配置信息。）
+## Requirements - 
+Python 3 
+
+## Configuration - 
+
 
 ## Installation - 安装（如何安装。）
 
-## Usage - 用法（用法。）
+## Usage - 
+The 
 
 ## Development - 开发（关于怎样开发的文档信息。（API 等。））
 
-## Changelog - 更新日志（一个简短的历史记录（更改，替换或者其他）。）
 
 ## FAQ - 常见问题（常见问题。）
 
